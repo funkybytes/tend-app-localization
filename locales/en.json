@@ -1,0 +1,70 @@
+{
+  "common": {
+    "toDo": "To Do",
+    "done": "Done",
+    "all": "All",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "create": "Create",
+    "none": "None",
+    "confirm": "Confirm",
+    "back": "Back"
+  },
+  "home": {
+    "statistics": "Statistics",
+    "dayFinished": "Day Finished",
+    "addNewHabit": "Add New Habit"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language"
+  },
+  "habit": {
+    "name": "Habit name",
+    "namePlaceholder": "Habit name",
+    "color": "Color",
+    "icon": "Icon",
+    "startDate": "Start Date",
+    "endDate": "End Date",
+    "endDatePlaceholder": "Select end date (optional)",
+    "type": "Type",
+    "singleDay": "Single Day",
+    "weekDays": "Week Days",
+    "daysOfWeek": "Days of the week",
+    "recurrence": "Recurrence",
+    "repetitions": "Daily Executions",
+    "repetitionsPlaceholder": "Number of daily executions",
+    "dailyNotifications": "Daily Notifications",
+    "noNotifications": "No notifications set",
+    "calendarDates": "Do on dates:",
+    "createHabit": "Create Habit",
+    "saveChanges": "Save changes",
+    "editHabit": "Edit habit",
+    "deleteHabit": "Delete Habit",
+    "deleteHabitConfirm": "Are you sure you want to delete this habit? This action cannot be undone.",
+    "clearData": "Clear Data",
+    "clearDataConfirm": "Are you sure you want to clear all data for this habit? This action cannot be undone."
+  },
+  "recurrence": {
+    "weekly": "Weekly",
+    "biWeekly": "Bi-weekly",
+    "monthly": "Monthly",
+    "quarterly": "Quarterly",
+    "halfYearly": "Half-yearly",
+    "yearly": "Yearly"
+  },
+  "weekDays": {
+    "sun": "Sun",
+    "mon": "Mon",
+    "tue": "Tue",
+    "wed": "Wed",
+    "thu": "Thu",
+    "fri": "Fri",
+    "sat": "Sat"
+  },
+  "validation": {
+    "habitNameRequired": "Habit name is required"
+  }
+}
