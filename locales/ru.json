@@ -1,70 +1,70 @@
 {
-  "common": {
-    "toDo": "Выполнить",
-    "done": "Готово",
-    "all": "Все",
-    "save": "Сохранить",
-    "cancel": "Отмена",
-    "delete": "Удалить",
-    "edit": "Редактировать",
-    "create": "Создать",
-    "none": "Нет",
-    "confirm": "Подтвердить",
-    "back": "Назад"
-  },
-  "home": {
-    "statistics": "Статистика",
-    "dayFinished": "День завершен",
-    "addNewHabit": "Добавить новую привычку"
-  },
-  "settings": {
-    "title": "Настройки",
-    "language": "Язык"
-  },
-  "habit": {
-    "name": "Название привычки",
-    "namePlaceholder": "Название привычки",
-    "color": "Цвет",
-    "icon": "Иконка",
-    "startDate": "Дата начала",
-    "endDate": "Дата окончания",
-    "endDatePlaceholder": "Выберите дату окончания (необязательно)",
-    "type": "Тип",
-    "singleDay": "Один день",
-    "weekDays": "Дни недели",
-    "daysOfWeek": "Дни недели",
-    "recurrence": "Повторение",
-    "repetitions": "Ежедневные выполнения",
-    "repetitionsPlaceholder": "Количество ежедневных выполнений",
-    "dailyNotifications": "Ежедневные уведомления",
-    "noNotifications": "Уведомления не настроены",
-    "calendarDates": "Даты выполнения:",
-    "createHabit": "Создать привычку",
-    "saveChanges": "Сохранить изменения",
-    "editHabit": "Редактировать привычку",
-    "deleteHabit": "Удалить привычку",
-    "deleteHabitConfirm": "Вы уверены, что хотите удалить эту привычку? Это действие нельзя отменить.",
-    "clearData": "Очистить данные",
-    "clearDataConfirm": "Вы уверены, что хотите очистить все данные для этой привычки? Это действие нельзя отменить."
-  },
-  "recurrence": {
-    "weekly": "Еженедельно",
-    "biWeekly": "Раз в две недели",
-    "monthly": "Ежемесячно",
-    "quarterly": "Ежеквартально",
-    "halfYearly": "Раз в полгода",
-    "yearly": "Ежегодно"
-  },
-  "weekDays": {
-    "sun": "Вс",
-    "mon": "Пн",
-    "tue": "Вт",
-    "wed": "Ср",
-    "thu": "Чт",
-    "fri": "Пт",
-    "sat": "Сб"
-  },
-  "validation": {
-    "habitNameRequired": "Название привычки обязательно"
-  }
+    "common": {
+        "toDo": "Выполнить",
+        "done": "Готово",
+        "all": "Все",
+        "save": "Сохранить",
+        "cancel": "Отмена",
+        "delete": "Удалить",
+        "edit": "Редактировать",
+        "create": "Создать",
+        "none": "Нет",
+        "confirm": "Подтвердить",
+        "back": "Назад"
+    },
+    "home": {
+        "statistics": "Статистика",
+        "dayFinished": "День завершен",
+        "addNewHabit": "Добавить новую привычку"
+    },
+    "settings": {
+        "title": "Настройки",
+        "language": "Язык"
+    },
+    "habit": {
+        "name": "Название привычки",
+        "namePlaceholder": "Название привычки",
+        "color": "Цвет",
+        "icon": "Иконка",
+        "startDate": "Дата начала",
+        "endDate": "Дата окончания",
+        "endDatePlaceholder": "Выберите дату окончания (необязательно)",
+        "type": "Тип",
+        "singleDay": "Один день",
+        "weekDays": "Дни недели",
+        "daysOfWeek": "Дни недели",
+        "recurrence": "Повторение",
+        "repetitions": "Ежедневные выполнения",
+        "repetitionsPlaceholder": "Количество ежедневных выполнений",
+        "dailyNotifications": "Ежедневные уведомления",
+        "noNotifications": "Уведомления не настроены",
+        "calendarDates": "Даты выполнения:",
+        "createHabit": "Создать привычку",
+        "saveChanges": "Сохранить изменения",
+        "editHabit": "Редактировать привычку",
+        "deleteHabit": "Удалить привычку",
+        "deleteHabitConfirm": "Вы уверены, что хотите удалить эту привычку? Это действие нельзя отменить.",
+        "clearData": "Очистить данные",
+        "clearDataConfirm": "Вы уверены, что хотите очистить все данные для этой привычки? Это действие нельзя отменить."
+    },
+    "recurrence": {
+        "weekly": "Еженедельно",
+        "biWeekly": "Раз в две недели",
+        "monthly": "Ежемесячно",
+        "quarterly": "Раз в квартал",
+        "halfYearly": "Раз в полгода",
+        "yearly": "Ежегодно"
+    },
+    "weekDays": {
+        "sun": "Вс",
+        "mon": "Пн",
+        "tue": "Вт",
+        "wed": "Ср",
+        "thu": "Чт",
+        "fri": "Пт",
+        "sat": "Сб"
+    },
+    "validation": {
+        "habitNameRequired": "Название привычки обязательно"
+    }
 }
